@@ -1,0 +1,27 @@
+body {
+  background-image: url(waterfall.jpg);
+  text-align: center;
+  text-shadow: 3px black;
+}
+
+div {background-color: black;
+    color: white;
+  opacity:0.9;
+  width: 50%;
+  text-align: center;
+   margin: 0 auto;
+ }
+
+
+.top-container {
+  opacity: 0.8;
+  width: 40%;
+  background-color: black;
+      color: white;
+}
+
+.middle-container
+ .bottom-container td {
+  text-align: center;
+  padding: 10px;
+}
